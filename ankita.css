@@ -1,0 +1,74 @@
+/*css document*/
+body
+{
+    padding:0px;
+    margin:0px;
+    font-size:18px;
+    text-align: center;
+    background-color: white;
+    border-radius: 15px;
+}
+.textbox
+{
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    float: left;
+    height: 50px;
+    min-height:auto;
+}
+.head-wraper
+{
+    width: 1170px;
+    margin: 0px auto;
+}
+.container
+{
+    padding:9px;
+    margin: 5px;
+}
+h1
+{
+padding:0px;
+margin: 0px;
+font-size: 30px;
+}
+input
+{
+    width:400px;
+}
+.Login-button
+{
+  padding:0px;
+  margin:0px;
+}
+.Login-button input
+{
+    padding: 10px;
+    margin: 0px;
+    width: 30%;
+    background-color:darkblue;
+    color: white;
+}
+
+
+.createnewaccount-button
+{
+  padding:0px;
+  margin:0px;
+}
+.createnewaccount-button input
+{
+    padding: 10px;
+    margin: 0px;
+    width: 30%;
+    background-color: green;
+    color: white;
+}
+
+.createnewaccount-button p
+{
+ padding: 0px;
+ margin: 0px;
+ color:blue;   
+}
